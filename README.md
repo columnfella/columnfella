@@ -59,6 +59,7 @@ My name is Saadeddine El Hajjaji, a Computer Science Student, aspiring AI resear
   <span style="color: #b102b7;"> dev, and...</span>
   <span style="color: #fd004c;"> Coding, of course.</span>
 </p>
+
 ---
 
 ## 🛠️ Favorite languages:
