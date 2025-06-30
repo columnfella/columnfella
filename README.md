@@ -51,22 +51,27 @@ My name is Saadeddine El Hajjaji, a Computer Science Student, aspiring AI resear
 ---
 
 <p align="center">
-  <svg width="800" height="60" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#fd004c;stop-opacity:1" />
-        <stop offset="16.7%" style="stop-color:#fe9000;stop-opacity:1" />
-        <stop offset="33.4%" style="stop-color:#fff020;stop-opacity:1" />
-        <stop offset="50.1%" style="stop-color:#3edf4b;stop-opacity:1" />
-        <stop offset="66.8%" style="stop-color:#3363ff;stop-opacity:1" />
-        <stop offset="83.5%" style="stop-color:#b102b7;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#fd004c;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="url(#rainbow)">
-      ⚽ My interests: Drawing, speculative sci-fi, video games/game dev, and... Coding, of course.
-    </text>
-  </svg>
+  <span style="
+    font-size: 1.2em;
+    font-weight: 700;
+    background: linear-gradient(
+      90deg,
+      #fd004c 0%,
+      #fe9000 16.7%,
+      #fff020 33.4%,
+      #3edf4b 50.1%,
+      #3363ff 66.8%,
+      #b102b7 83.5%,
+      #fd004c 100%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    letter-spacing: 0.1em;
+  ">
+    ⚽ My interests: Drawing, speculative sci-fi, video games/game dev, and... Coding, of course.
+  </span>
+</p>
 </p>
 
 ---
