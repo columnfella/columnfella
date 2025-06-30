@@ -1,11 +1,6 @@
-## Hello there 👋  
+## <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Enchanted_Diamond_Sword.gif/revision/latest?cb=20201118111712" alt="Enchanted Diamond Sword" width="40" height="40" /> <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/13/Enchanted_Diamond_Pickaxe.gif/revision/latest?cb=20201118111642" alt="Enchanted Diamond Pickaxe" width="40" height="40" /> Hello there 👋 
 My name is Saadeddine El Hajjaji, a Computer Science Student, aspiring AI researcher, Game dev, and full stack developer.  
 📔 Currently enrolled at Al Akhawayn University, *Aka an AUI'er*
-
-<p align="center">
-  <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Enchanted_Diamond_Sword.gif/revision/latest?cb=20201118111712" alt="Enchanted Diamond Sword" width="200" style="margin-right: 20px;" />
-  <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/13/Enchanted_Diamond_Pickaxe.gif/revision/latest?cb=20201118111642" alt="Enchanted Diamond Pickaxe" width="200" />
-</p>
 
 🎉 Fun fact: I like art
 
