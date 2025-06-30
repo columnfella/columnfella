@@ -2,7 +2,8 @@
 My name is Saadeddine El Hajjaji, a Computer Science Student, aspiring AI researcher, Game dev, and full stack developer.  
 📔 Currently enrolled at Al Akhawayn University, *Aka an AUI'er*
 
-🎉 Fun fact: I like art
+
+
 
 ---
 
@@ -45,6 +46,9 @@ My name is Saadeddine El Hajjaji, a Computer Science Student, aspiring AI resear
 
 ---
 
+
+🎉 Fun fact: I like art
+
 <p align="center">
   <span style="color: #fd004c;">⚽ My interests:</span>
   <span style="color: #fe9000;"> Drawing,</span>
@@ -54,6 +58,7 @@ My name is Saadeddine El Hajjaji, a Computer Science Student, aspiring AI resear
   <span style="color: #b102b7;"> dev, and...</span>
   <span style="color: #fd004c;"> Coding, of course.</span>
 </p>
+
 
 ---
 
