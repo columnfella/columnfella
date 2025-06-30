@@ -7,7 +7,7 @@ My name is Saadeddine El Hajjaji, a Computer Science Student, aspiring AI resear
 
 ---
 
-# 🛠️ Skills
+# 🛠️ My Skills
 
 ## Languages & Frameworks
 
