@@ -51,29 +51,14 @@ My name is Saadeddine El Hajjaji, a Computer Science Student, aspiring AI resear
 ---
 
 <p align="center">
-  <span style="
-    font-size: 1.2em;
-    font-weight: 700;
-    background: linear-gradient(
-      90deg,
-      #fd004c 0%,
-      #fe9000 16.7%,
-      #fff020 33.4%,
-      #3edf4b 50.1%,
-      #3363ff 66.8%,
-      #b102b7 83.5%,
-      #fd004c 100%
-    );
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    letter-spacing: 0.1em;
-  ">
-    ⚽ My interests: Drawing, speculative sci-fi, video games/game dev, and... Coding, of course.
-  </span>
+  <span style="color: #fd004c;">⚽ My interests:</span>
+  <span style="color: #fe9000;"> Drawing,</span>
+  <span style="color: #fff020;"> speculative</span>
+  <span style="color: #3edf4b;"> sci-fi,</span>
+  <span style="color: #3363ff;"> video games/game</span>
+  <span style="color: #b102b7;"> dev, and...</span>
+  <span style="color: #fd004c;"> Coding, of course.</span>
 </p>
-</p>
-
 ---
 
 ## 🛠️ Favorite languages:
