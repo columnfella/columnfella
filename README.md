@@ -47,8 +47,7 @@ My name is Saadeddine El Hajjaji, a Computer Science Student, aspiring AI resear
 ---
 
 
-🎉 Fun fact: I like art
-⚽ My interests: Drawing, speculative sci-fi, video games/game dev, and... Coding, of course.'
+🎉 Fun fact: I like Drawing, speculative sci-fi, video games/game dev, and... Coding, of course.
 
 
 ---
