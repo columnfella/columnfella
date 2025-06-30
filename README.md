@@ -15,20 +15,30 @@ My name is Saadeddine El Hajjaji, a Computer Science Student, aspiring AI resear
 
 ## Languages & Frameworks
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />  
-Basic proficiency in **Java**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" style="vertical-align:middle; margin-right:10px;" />  
+  <span style="vertical-align:middle;">Basic proficiency in <b>Java</b></span>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />  
-Experience with **C#** (Unity development)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" style="vertical-align:middle; margin-right:10px;" />  
+  <span style="vertical-align:middle;">Experience with <b>C#</b> (Unity development)</span>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />  
-Backend development with **Python** (Flask basics)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" style="vertical-align:middle; margin-right:10px;" />  
+  <span style="vertical-align:middle;">Backend development with <b>Python</b> (Flask basics)</span>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />  
-Basic **HTML** & **CSS**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" style="vertical-align:middle; margin-right:10px;" />  
+  <span style="vertical-align:middle;">Basic <b>HTML</b> & <b>CSS</b></span>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />  
-Intermediate **JavaScript** (frontend)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" style="vertical-align:middle; margin-right:10px;" />  
+  <span style="vertical-align:middle;">Intermediate <b>JavaScript</b> (frontend)</span>
+</p>
 
 ---
 
@@ -50,6 +60,6 @@ Intermediate **JavaScript** (frontend)
 
 ## 📊 GitHub Stats
 
-![Saadeddine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saelhajjaji&show_icons=true&theme=radical&hide_title=true&count_private=true)
+![Saadeddine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=columnfella&show_icons=true&theme=radical&hide_title=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saelhajjaji&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=columnfella&layout=compact&theme=radical)
