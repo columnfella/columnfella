@@ -66,7 +66,6 @@ My name is Saadeddine El Hajjaji, a Computer Science Student, aspiring AI resear
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
 
 <p align="center" gap= 30px>
   <img src="https://github-readme-stats.vercel.app/api?username=columnfella&show_icons=true&theme=radical&hide_title=true&count_private=true" />
